@@ -3,12 +3,9 @@
 <!-- Custom Header Banner -->
 <img width="100%" src="github-header-banner.png" alt="header banner" />
 
-<!-- Header Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=120&section=header" />
-
 <!-- Typing Animation -->
 <a href="https://github.com/averatec0773">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Scott+Huang+%F0%9F%96%96;AI+Enthusiast+%7C+Music+Producer;Building+Intelligent+Systems;Crafting+Hip-Hop+Instrumentals" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=1500&color=00D4FF&center=true&vCenter=true&width=750&lines=Always+learning%2C+always+creating.;AI+%7C+Music+%7C+Game" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -24,7 +21,7 @@
 
 ---
 
-## About Me
+## ABOUT ME
 
 ```python
 scott = {
@@ -46,47 +43,49 @@ scott = {
 
 ---
 
-## Tech Stack
+## TECH STACK
 
 <div align="center">
 
 **Languages & Core**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
 
 **ML / DL Frameworks**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
+[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io)
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
 
 **AI Tools**
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
-![Suno](https://img.shields.io/badge/Suno-000000?style=for-the-badge&logo=music&logoColor=white)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://chatgpt.com)
+[![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai/code)
+[![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)](https://gemini.google.com)
+[![Suno](https://img.shields.io/badge/Suno-000000?style=for-the-badge&logo=music&logoColor=white)](https://suno.com)
 
 **Tools & Platforms**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/averatec0773)
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org)
 
 **Music Producing**
-![FL Studio](*link*)
+
+[![FL Studio](https://img.shields.io/badge/FL_Studio-FF7629?style=for-the-badge&logo=image-line&logoColor=white)](https://www.image-line.com/fl-studio/)
 
 </div>
 
 ---
 
-## GitHub Stats
-
+<!-- ## GITHUB STATS -->
+<!-- Uncomment below to re-enable GitHub Stats -->
+<!--
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=averatec0773&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" />
@@ -98,10 +97,11 @@ scott = {
 <img src="https://streak-stats.demolab.com?user=averatec0773&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" alt="GitHub Streak" />
 
 </div>
+-->
 
 ---
 
-## Featured Projects
+## FEATURED PROJECTS
 
 <div align="center">
 
@@ -111,7 +111,7 @@ scott = {
 
 ---
 
-## Music — AYETEK Beats
+## MUSIC — AYETEK BEATS
 
 > I produce **Hip-Hop instrumentals** under the alias **AYETEK**. My sound blends dark melodies, hard-knocking 808s, and cinematic textures.
 > Exploring how **AI can assist in music creation** is a growing passion of mine.
@@ -129,7 +129,7 @@ scott = {
 
 ---
 
-## Connect With Me
+## CONNECT WITH ME
 
 <div align="center">
 
@@ -146,9 +146,6 @@ scott = {
 
 <!-- TODO: Contribution graph — uncomment below to re-enable when ready -->
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=averatec0773&theme=tokyo-night&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&hide_border=true" alt="activity graph" /> -->
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" />
 
 *"Code the future. Produce the soundtrack."*
 
