@@ -94,16 +94,17 @@ scott = {
 
 ## MUSIC — AVERATEC BEATS
 
-> I produce **Hip-Hop instrumentals** under the alias **AVERATEC**. My sound blends dark melodies, hard-knocking 808s, and cinematic textures.
-> Exploring how **AI can assist in music creation** is a growing passion of mine.
+> I'm a **Hip-Hop producer** crafting next-gen instrumentals under the alias **AVERATEC** —
+> blending **Memphis**, **Regalia**, **Chinese-influenced** vibes and more into a signature sound.
+> Currently exploring the frontier of **AI-assisted music creation** as the next creative chapter.
 
 <div align="center">
 
-| Track | Mood | BPM |
-|-------|------|-----|
-| 🎵 Browse latest on BeatStars → | | |
+<!-- Spotify — uncomment and replace YOUR_SPOTIFY_ARTIST_ID once registered -->
+<!-- [![Spotify](https://img.shields.io/badge/Spotify-AVERATEC-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/YOUR_SPOTIFY_ARTIST_ID) -->
 
 [![BeatStars](https://img.shields.io/badge/BeatStars-AVERATEC0773-1DB954?style=for-the-badge&logo=beatport&logoColor=white)](https://www.beatstars.com/averatec0773)
+[![NetEase Music](https://img.shields.io/badge/NetEase_Music-AVERATEC-C20C0C?style=for-the-badge&logo=netease-cloud-music&logoColor=white)](https://music.163.com/#/artist?id=50982361)
 
 </div>
 
@@ -111,10 +112,9 @@ scott = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Scott_Huang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yiyangh/)
-[![GitHub](https://img.shields.io/badge/GitHub-averatec0773-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/averatec0773)
+[![Email](https://img.shields.io/badge/Email-ayetek0773%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayetek0773@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-averatec0773-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/averatec0773/)
-[![BeatStars](https://img.shields.io/badge/BeatStars-AVERATEC0773-1DB954?style=for-the-badge&logo=beatport&logoColor=white)](https://www.beatstars.com/averatec0773)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Scott_Huang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yiyangh/)
 
 </div>
 
