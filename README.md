@@ -19,18 +19,16 @@
 
 </div>
 
----
-
 ## ABOUT ME
 
+<!-- education:
+    "B.Eng. Artificial Intelligence  — Xiamen University",
+    "M.S.  Machine Learning          — Northeastern University",
+-->
 ```python
 scott = {
     "name":       "Scott Huang",
     "location":   "Boston, MA",
-    # "education":  [
-    #     "B.Eng. Artificial Intelligence  — Xiamen University",
-    #     "M.S.  Machine Learning          — Northeastern University",
-    # ],
     "roles":      ["AI Enthusiast", "LLM Agent Builder", "Music Producer"],
     "focus":      ["LLM Agents", "Reinforcement Learning", "Deep Learning", "AI Systems"],
     "side_quest": "Exploring AI creation & Producing beats",
@@ -40,8 +38,6 @@ scott = {
 
 > I explore and build **intelligent AI systems** with a focus on LLM agents and real-world applications.
 > Outside of research, I produce **Hip-Hop instrumentals** and push the boundaries of AI + music creativity.
-
----
 
 ## TECH STACK
 
@@ -58,8 +54,6 @@ scott = {
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
-[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io)
-[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
 
 **AI Tools**
 
@@ -68,20 +62,11 @@ scott = {
 [![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)](https://gemini.google.com)
 [![Suno](https://img.shields.io/badge/Suno-000000?style=for-the-badge&logo=music&logoColor=white)](https://suno.com)
 
-**Tools & Platforms**
-
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/averatec0773)
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org)
-
 **Music Producing**
 
 [![FL Studio](https://img.shields.io/badge/FL_Studio-FF7629?style=for-the-badge&logo=image-line&logoColor=white)](https://www.image-line.com/fl-studio/)
 
 </div>
-
----
 
 <!-- ## GITHUB STATS -->
 <!-- Uncomment below to re-enable GitHub Stats -->
@@ -99,8 +84,6 @@ scott = {
 </div>
 -->
 
----
-
 ## FEATURED PROJECTS
 
 <div align="center">
@@ -109,11 +92,9 @@ scott = {
 
 </div>
 
----
+## MUSIC — AVERATEC BEATS
 
-## MUSIC — AYETEK BEATS
-
-> I produce **Hip-Hop instrumentals** under the alias **AYETEK**. My sound blends dark melodies, hard-knocking 808s, and cinematic textures.
+> I produce **Hip-Hop instrumentals** under the alias **AVERATEC**. My sound blends dark melodies, hard-knocking 808s, and cinematic textures.
 > Exploring how **AI can assist in music creation** is a growing passion of mine.
 
 <div align="center">
@@ -122,12 +103,9 @@ scott = {
 |-------|------|-----|
 | 🎵 Browse latest on BeatStars → | | |
 
-[![BeatStars](https://img.shields.io/badge/BeatStars-AYETEK0773-1DB954?style=for-the-badge&logo=beatport&logoColor=white)](https://www.beatstars.com/ayetek0773)
-[![NetEase Music](https://img.shields.io/badge/NetEase_Music-Artist_Page-C20C0C?style=for-the-badge&logo=netease-cloud-music&logoColor=white)](https://music.163.com/#/artist?id=50982361)
+[![BeatStars](https://img.shields.io/badge/BeatStars-AVERATEC0773-1DB954?style=for-the-badge&logo=beatport&logoColor=white)](https://www.beatstars.com/averatec0773)
 
 </div>
-
----
 
 ## CONNECT WITH ME
 
@@ -135,12 +113,10 @@ scott = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Scott_Huang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yiyangh/)
 [![GitHub](https://img.shields.io/badge/GitHub-averatec0773-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/averatec0773)
-[![BeatStars](https://img.shields.io/badge/BeatStars-AYETEK0773-1DB954?style=for-the-badge&logo=beatport&logoColor=white)](https://www.beatstars.com/ayetek0773)
-[![NetEase](https://img.shields.io/badge/NetEase_Music-Artist-C20C0C?style=for-the-badge&logo=netease-cloud-music&logoColor=white)](https://music.163.com/#/artist?id=50982361)
+[![Instagram](https://img.shields.io/badge/Instagram-averatec0773-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/averatec0773/)
+[![BeatStars](https://img.shields.io/badge/BeatStars-AVERATEC0773-1DB954?style=for-the-badge&logo=beatport&logoColor=white)](https://www.beatstars.com/averatec0773)
 
 </div>
-
----
 
 <div align="center">
 
