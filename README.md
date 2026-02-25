@@ -1,5 +1,8 @@
 <div align="center">
 
+<!-- Custom Header Banner -->
+<img width="100%" src="github-header-banner.png" alt="header banner" />
+
 <!-- Header Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=120&section=header" />
 
@@ -27,13 +30,13 @@
 scott = {
     "name":       "Scott Huang",
     "location":   "Boston, MA",
-    "education":  [
-        "B.Eng. Artificial Intelligence  — Xiamen University",
-        "M.S.  Machine Learning          — Northeastern University",
-    ],
-    "roles":      ["AI/ML Student", "LLM Agent Builder", "Hip-Hop Producer"],
+    # "education":  [
+    #     "B.Eng. Artificial Intelligence  — Xiamen University",
+    #     "M.S.  Machine Learning          — Northeastern University",
+    # ],
+    "roles":      ["AI Enthusiast", "LLM Agent Builder", "Music Producer"],
     "focus":      ["LLM Agents", "Reinforcement Learning", "Deep Learning", "AI Systems"],
-    "side_quest": "Producing beats & exploring AI × Music creation",
+    "side_quest": "Exploring AI creation & Producing beats",
     "motto":      "Always learning, always creating.",
 }
 ```
@@ -61,12 +64,12 @@ scott = {
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-**Data & Visualization**
+**AI Tools**
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
+![Suno](https://img.shields.io/badge/Suno-000000?style=for-the-badge&logo=music&logoColor=white)
 
 **Tools & Platforms**
 
@@ -74,6 +77,9 @@ scott = {
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Music Producing**
+![FL Studio](*link*)
 
 </div>
 
@@ -99,21 +105,7 @@ scott = {
 
 <div align="center">
 
-<a href="https://github.com/averatec0773/FYP_EEG_Emotion_Recognition">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=averatec0773&repo=FYP_EEG_Emotion_Recognition&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" />
-</a>
-&nbsp;
-<a href="https://github.com/averatec0773/Deepfake_Detection_Fusion_Model">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=averatec0773&repo=Deepfake_Detection_Fusion_Model&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" />
-</a>
-
-<a href="https://github.com/averatec0773/Fine-Tuning_GPT3.5-Turbo_StockForecasting">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=averatec0773&repo=Fine-Tuning_GPT3.5-Turbo_StockForecasting&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" />
-</a>
-&nbsp;
-<a href="https://github.com/averatec0773/ArtistViz">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=averatec0773&repo=ArtistViz&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" />
-</a>
+<!-- TODO: Add featured project cards here -->
 
 </div>
 
@@ -152,8 +144,8 @@ scott = {
 
 <div align="center">
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=averatec0773&theme=tokyo-night&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&hide_border=true" alt="activity graph" />
+<!-- TODO: Contribution graph — uncomment below to re-enable when ready -->
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=averatec0773&theme=tokyo-night&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&hide_border=true" alt="activity graph" /> -->
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" />
