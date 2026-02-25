@@ -8,14 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=1500&color=00D4FF&center=true&vCenter=true&width=750&lines=Always+learning%2C+always+creating.;AI+%7C+Music+%7C+Game" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<!-- Visitor Badge + Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=averatec0773&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS" alt="profile views" />
-&nbsp;
-<a href="https://github.com/averatec0773?tab=followers">
-  <img src="https://img.shields.io/github/followers/averatec0773?style=for-the-badge&color=00d4ff&labelColor=0d1117&label=FOLLOWERS" alt="followers" />
-</a>
 
 </div>
 
@@ -57,9 +49,9 @@ scott = {
 
 **AI Creation**
 
-[![Suno](https://img.shields.io/badge/Suno-000000?style=for-the-badge&logo=music&logoColor=white)](https://suno.com)
+[![Suno](https://img.shields.io/badge/Suno-000000?style=for-the-badge&logo=suno&logoColor=white)](https://suno.com)
 [![Sora](https://img.shields.io/badge/Sora-412991?style=for-the-badge&logo=openai&logoColor=white)](https://sora.com)
-[![Nano Banana](https://img.shields.io/badge/Nano_Banana-FFD700?style=for-the-badge&logo=music&logoColor=black)](https://nanobanana.ai)
+[![Nano Banana](https://img.shields.io/badge/Nano_Banana-FFD700?style=for-the-badge&logo=headphones&logoColor=black)](https://nanobanana.ai)
 
 
 </div>
@@ -97,7 +89,7 @@ scott = {
 <div align="center">
 
 [![Spotify](https://img.shields.io/badge/Spotify-Listen_Now-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/6xP75KkZcUzu0ymZLStQHN)
-[![BeatStars](https://img.shields.io/badge/BeatStars-AVERATEC0773-1DB954?style=for-the-badge&logo=beatport&logoColor=white)](https://www.beatstars.com/averatec0773)
+[![BeatStars](https://img.shields.io/badge/BeatStars-AVERATEC0773-1DB954?style=for-the-badge&logo=beatstars&logoColor=white)](https://www.beatstars.com/averatec0773)
 [![NetEase Music](https://img.shields.io/badge/NetEase_Music-AVERATEC-C20C0C?style=for-the-badge&logo=netease-cloud-music&logoColor=white)](https://music.163.com/#/artist?id=50982361)
 
 </div>
