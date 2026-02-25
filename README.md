@@ -43,28 +43,24 @@ scott = {
 
 <div align="center">
 
-**Languages & Core**
+**Languages & ML**
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org)
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
-
-**ML / DL Frameworks**
-
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
 
-**AI Tools**
+**AI Assistants**
 
-[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://chatgpt.com)
 [![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai/code)
-[![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)](https://gemini.google.com)
+[![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)](https://platform.openai.com/docs/guides/code)
+
+**AI Creation**
+
 [![Suno](https://img.shields.io/badge/Suno-000000?style=for-the-badge&logo=music&logoColor=white)](https://suno.com)
+[![Sora](https://img.shields.io/badge/Sora-412991?style=for-the-badge&logo=openai&logoColor=white)](https://sora.com)
+[![Nano Banana](https://img.shields.io/badge/Nano_Banana-FFD700?style=for-the-badge&logo=music&logoColor=black)](https://nanobanana.ai)
 
-**Music Producing**
-
-[![FL Studio](https://img.shields.io/badge/FL_Studio-FF7629?style=for-the-badge&logo=image-line&logoColor=white)](https://www.image-line.com/fl-studio/)
 
 </div>
 
@@ -100,9 +96,7 @@ scott = {
 
 <div align="center">
 
-<!-- Spotify — uncomment and replace YOUR_SPOTIFY_ARTIST_ID once registered -->
-<!-- [![Spotify](https://img.shields.io/badge/Spotify-AVERATEC-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/YOUR_SPOTIFY_ARTIST_ID) -->
-
+[![Spotify](https://img.shields.io/badge/Spotify-Listen_Now-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/6xP75KkZcUzu0ymZLStQHN)
 [![BeatStars](https://img.shields.io/badge/BeatStars-AVERATEC0773-1DB954?style=for-the-badge&logo=beatport&logoColor=white)](https://www.beatstars.com/averatec0773)
 [![NetEase Music](https://img.shields.io/badge/NetEase_Music-AVERATEC-C20C0C?style=for-the-badge&logo=netease-cloud-music&logoColor=white)](https://music.163.com/#/artist?id=50982361)
 
