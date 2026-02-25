@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://github.com/averatec0773">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=1500&color=00D4FF&center=true&vCenter=true&width=750&lines=Always+learning%2C+always+creating.;AI+%7C+Music+%7C+Game" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1500&color=A672DA&center=true&vCenter=true&width=800&lines=Always+learning%2C+always+creating.;AI+%7C+Music+%7C+Game" alt="Typing SVG" />
 </a>
 
 
@@ -28,8 +28,8 @@ scott = {
 }
 ```
 
-> I explore and build **intelligent AI systems** with a focus on LLM agents and real-world applications.
-> Outside of research, I produce **Hip-Hop instrumentals** and push the boundaries of AI + music creativity.
+<!-- > I explore and build **intelligent AI systems** with a focus on LLM agents and real-world applications.
+> Outside of research, I produce **Hip-Hop instrumentals** and push the boundaries of AI + music creativity. -->
 
 ## TECH STACK
 
