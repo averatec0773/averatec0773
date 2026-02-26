@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://github.com/averatec0773">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1500&color=A672DA&center=true&vCenter=true&width=800&lines=Always+learning%2C+always+creating.;AI+%7C+Music+%7C+Game" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1500&color=BFC2C5&center=true&vCenter=true&width=800&lines=Always+learning%2C+always+creating.;AI+%7C+Music+%7C+Game" alt="Typing SVG" />
 </a>
 
 
@@ -51,7 +51,7 @@ scott = {
 
 [![Suno](https://img.shields.io/badge/Suno-000000?style=for-the-badge&logo=suno&logoColor=white)](https://suno.com)
 [![Sora](https://img.shields.io/badge/Sora-412991?style=for-the-badge&logo=openai&logoColor=white)](https://sora.com)
-[![Nano Banana](https://img.shields.io/badge/Nano_Banana-FFD700?style=for-the-badge&logo=headphones&logoColor=black)](https://nanobanana.ai)
+[![Nano Banana](https://img.shields.io/badge/Nano_Banana-FFD700?style=for-the-badge&logo=headphones&logoColor=black)](https://aistudio.google.com/models/gemini-2-5-flash-image)
 
 
 </div>
