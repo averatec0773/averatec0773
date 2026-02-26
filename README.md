@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Custom Header Banner -->
-<img width="100%" src="github-header-banner.png" alt="header banner" />
+<img width="100%" src="https://raw.githubusercontent.com/averatec0773/averatec0773/main/github-header-banner.png?v=2" alt="header banner" />
 
 <!-- Typing Animation -->
 <a href="https://github.com/averatec0773">
