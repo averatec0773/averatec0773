@@ -45,13 +45,13 @@ scott = {
 **AI Assistants**
 
 [![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai/code)
-[![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)](https://platform.openai.com/docs/guides/code)
+[![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openaigym&logoColor=white)](https://platform.openai.com/docs/guides/code)
 
 **AI Creation**
 
 [![Suno](https://img.shields.io/badge/Suno-000000?style=for-the-badge&logo=suno&logoColor=white)](https://suno.com)
-[![Sora](https://img.shields.io/badge/Sora-412991?style=for-the-badge&logo=openai&logoColor=white)](https://sora.com)
-[![Nano Banana](https://img.shields.io/badge/Nano_Banana-FFD700?style=for-the-badge&logo=headphones&logoColor=black)](https://aistudio.google.com/models/gemini-2-5-flash-image)
+[![Sora](https://img.shields.io/badge/Sora-412991?style=for-the-badge&logo=openaigym&logoColor=white)](https://sora.com)
+[![Nano Banana](https://img.shields.io/badge/Nano_Banana-FFD700?style=for-the-badge&logo=googlegemini&logoColor=black)](https://aistudio.google.com/models/gemini-2-5-flash-image)
 
 
 </div>
@@ -99,8 +99,8 @@ scott = {
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-ayetek0773%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayetek0773@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-averatec0773-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/averatec0773/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Scott_Huang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yiyangh/)
+[![Instagram](https://img.shields.io/badge/Instagram-averatec0773-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/averatec0773/)
 
 </div>
 
