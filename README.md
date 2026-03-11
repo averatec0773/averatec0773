@@ -73,24 +73,19 @@ scott = {
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" valign="middle" width="120">
 <a href="https://github.com/averatec0773/averatec-openclaw">
-  <img src="https://raw.githubusercontent.com/averatec0773/averatec-openclaw/main/assets/logo.jpg" width="100" alt="OpenClaw" style="border-radius: 12px;" />
+  <img src="https://raw.githubusercontent.com/averatec0773/averatec-openclaw/main/assets/logo.jpg" height="72" style="vertical-align: middle; border-radius: 12px;" />
+  &nbsp;&nbsp;<strong>averatec-openclaw</strong>
 </a>
-</td>
-<td valign="middle" align="left">
-<a href="https://github.com/averatec0773/averatec-openclaw">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=averatec0773&repo=averatec-openclaw&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&icon_color=00d4ff" />
-</a>
+
 <br/>
+<sub>Self-hosted OpenClaw AI gateway — custom Docker setup with Discord, Gmail, Google Places, and web search</sub>
+
+<br/><br/>
+
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js_22-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white" />
-</td>
-</tr>
-</table>
 
 </div>
 
