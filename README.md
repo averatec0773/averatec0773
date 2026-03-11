@@ -75,24 +75,19 @@ scott = {
 
 <table>
 <tr>
-<td align="center" width="420">
-
+<td align="center" valign="middle" width="120">
 <a href="https://github.com/averatec0773/averatec-openclaw">
-  <img src="https://raw.githubusercontent.com/averatec0773/averatec-openclaw/main/assets/logo.jpg" height="48" alt="OpenClaw" style="border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/averatec0773/averatec-openclaw/main/assets/logo.jpg" width="100" alt="OpenClaw" style="border-radius: 12px;" />
 </a>
-
-<br/>
-
+</td>
+<td valign="middle" align="left">
 <a href="https://github.com/averatec0773/averatec-openclaw">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=averatec0773&repo=averatec-openclaw&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&icon_color=00d4ff" />
 </a>
-
 <br/>
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js_22-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white)
-
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js_22-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white" />
 </td>
 </tr>
 </table>
