@@ -81,7 +81,7 @@ scott = {
 <td align="center" width="420">
 
 <a href="https://github.com/averatec0773/averatec-openclaw">
-  <img src="https://mintcdn.com/clawdhub/-t5HSeZ3Y_0_wH4i/assets/openclaw-logo-text-dark.png" height="36" alt="OpenClaw" />
+  <img src="https://avatars.githubusercontent.com/u/252820863?v=4" height="48" alt="OpenClaw" style="border-radius: 8px;" />
 </a>
 
 <br/>
