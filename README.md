@@ -80,7 +80,7 @@ scott = {
 
 </div>
 
-## MUSIC — AVERATEC BEATS
+## MUSIC — AVERATEC
 
 > I'm a **Hip-Hop producer** crafting next-gen instrumentals under the alias **AVERATEC** —
 > blending **Memphis**, **Regalia**, **Chinese-influenced** vibes and more into a signature sound.
