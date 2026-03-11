@@ -42,13 +42,10 @@ scott = {
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
 
-**AI Assistants**
+**AI Tools**
 
 [![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai/code)
 [![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openaigym&logoColor=white)](https://platform.openai.com/docs/guides/code)
-
-**AI Creation**
-
 [![Suno](https://img.shields.io/badge/Suno-000000?style=for-the-badge&logo=suno&logoColor=white)](https://suno.com)
 [![Sora](https://img.shields.io/badge/Sora-412991?style=for-the-badge&logo=openaigym&logoColor=white)](https://sora.com)
 [![Nano Banana](https://img.shields.io/badge/Nano_Banana-FFD700?style=for-the-badge&logo=googlegemini&logoColor=black)](https://aistudio.google.com/models/gemini-2-5-flash-image)
@@ -81,7 +78,7 @@ scott = {
 <td align="center" width="420">
 
 <a href="https://github.com/averatec0773/averatec-openclaw">
-  <img src="https://avatars.githubusercontent.com/u/252820863?v=4" height="48" alt="OpenClaw" style="border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/averatec0773/averatec-openclaw/main/assets/logo.jpg" height="48" alt="OpenClaw" style="border-radius: 8px;" />
 </a>
 
 <br/>
