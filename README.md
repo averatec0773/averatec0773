@@ -73,27 +73,20 @@ scott = {
 
 <div align="center">
 
-<table border="0" cellpadding="16">
+<table border="0" cellpadding="8">
 <tr>
-<td align="center" valign="top">
+<td align="center" valign="top" width="50%">
 <a href="https://github.com/averatec0773/averatec-openclaw">
-  <img src="https://raw.githubusercontent.com/averatec0773/averatec-openclaw/main/assets/logo.jpg" width="80" alt="OpenClaw" style="border-radius: 10px;" />
-</a>
-<br/><br/>
-<a href="https://github.com/averatec0773/averatec-openclaw">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=averatec0773&repo=averatec-openclaw&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&icon_color=00d4ff" />
-</a>
-<br/>
+  <img src="https://raw.githubusercontent.com/averatec0773/averatec-openclaw/main/assets/logo.jpg" height="40" alt="OpenClaw" style="border-radius: 6px; vertical-align: middle;" />&nbsp;<strong>averatec-openclaw</strong>
+</a><br/>
+<a href="https://github.com/averatec0773/averatec-openclaw"><img src="https://github-readme-stats.vercel.app/api/pin/?username=averatec0773&repo=averatec-openclaw&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&icon_color=00d4ff" /></a><br/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js_22-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenClaw-000000?style=flat-square&logo=openaigym&logoColor=white" />
 </td>
-<td align="center" valign="top">
-<br/><br/>
-<a href="https://github.com/averatec0773/averatec-skills">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=averatec0773&repo=averatec-skills&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&icon_color=00d4ff" />
-</a>
+<td align="center" valign="top" width="50%">
 <br/>
+<a href="https://github.com/averatec0773/averatec-skills"><img src="https://github-readme-stats.vercel.app/api/pin/?username=averatec0773&repo=averatec-skills&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&icon_color=00d4ff" /></a><br/>
 <img src="https://img.shields.io/badge/OpenClaw-000000?style=flat-square&logo=openaigym&logoColor=white" />
 <img src="https://img.shields.io/badge/ClawHub-412991?style=flat-square&logo=openaigym&logoColor=white" />
 </td>
