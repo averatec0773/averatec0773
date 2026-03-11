@@ -76,7 +76,30 @@ scott = {
 
 <div align="center">
 
-<!-- TODO: Add featured project cards here -->
+<table>
+<tr>
+<td align="center" width="420">
+
+<a href="https://github.com/averatec0773/averatec-openclaw">
+  <img src="https://mintcdn.com/clawdhub/-t5HSeZ3Y_0_wH4i/assets/openclaw-logo-text-dark.png" height="36" alt="OpenClaw" />
+</a>
+
+<br/>
+
+**[averatec-openclaw](https://github.com/averatec0773/averatec-openclaw)**
+
+Self-hosted OpenClaw AI gateway on Hetzner VPS —
+personal knowledge base for setup, skills, and daily commands.
+
+<br/>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js_22-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 </div>
 
