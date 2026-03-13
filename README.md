@@ -77,7 +77,7 @@ scott = {
 <tr>
 <td align="center" valign="middle" width="120">
 <a href="https://github.com/averatec0773/averatec-openclaw">
-  <img src="https://raw.githubusercontent.com/averatec0773/averatec-openclaw/main/assets/logo.jpg" width="100" alt="OpenClaw" style="border-radius: 12px;" />
+  <img src="https://raw.githubusercontent.com/averatec0773/averatec-openclaw/main/assets/avatar-public.jpg" width="100" alt="OpenClaw" style="border-radius: 12px;" />
 </a>
 </td>
 <td valign="middle" align="left">
