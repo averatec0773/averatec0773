@@ -74,16 +74,8 @@ scott = {
 <div align="center">
 
 <a href="https://github.com/averatec0773/openclaw-discord-multiagent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=averatec0773&repo=openclaw-discord-multiagent&hide_border=false&border_radius=16&bg_color=0d1117&border_color=30363d&title_color=e6edf3&text_color=8b949e&icon_color=58a6ff" />
+  <img src="https://raw.githubusercontent.com/averatec0773/averatec0773/main/featured-openclaw.svg" alt="openclaw-discord-multiagent" />
 </a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/OpenClaw-CC2233?style=flat&logo=openaigym&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 
 </div>
 
