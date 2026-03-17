@@ -1,33 +1,48 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="440" height="156" viewBox="0 0 440 156">
 
-  <!-- Card background -->
-  <rect width="440" height="156" rx="16" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <style>
+    .title { fill: #1f2328; }
+    .desc  { fill: #636c76; }
+    .icon  { fill: #0969da; }
+    .meta  { fill: #636c76; }
+    .border { stroke: #d0d7de; }
+    @media (prefers-color-scheme: dark) {
+      .title { fill: #e6edf3; }
+      .desc  { fill: #8b949e; }
+      .icon  { fill: #58a6ff; }
+      .meta  { fill: #8b949e; }
+      .border { stroke: #30363d; }
+    }
+  </style>
+
+  <!-- Card border (no fill — transparent background) -->
+  <rect width="440" height="156" rx="16" fill="none" class="border" stroke-width="1"/>
 
   <!-- Repo icon (Octicons repo, 16px) -->
-  <g transform="translate(22,21)" fill="#58a6ff">
+  <g transform="translate(22,21)" class="icon">
     <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"/>
   </g>
 
   <!-- Title -->
   <text x="44" y="34"
         font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
-        font-size="16" font-weight="600" fill="#e6edf3">openclaw-discord-multiagent</text>
+        font-size="16" font-weight="600" class="title">openclaw-discord-multiagent</text>
 
   <!-- Description -->
   <text font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
-        font-size="13" fill="#8b949e">
+        font-size="13" class="desc">
     <tspan x="22" y="57">Self-hosted OpenClaw multi-agent Discord setup —</tspan>
     <tspan x="22" dy="19">private assistant + public bot on one gateway,</tspan>
     <tspan x="22" dy="19">custom Docker image, Claude Code workflow</tspan>
   </text>
 
   <!-- Star icon (Octicons star, scaled to 14px) -->
-  <g transform="translate(22,113) scale(0.875)" fill="#8b949e">
+  <g transform="translate(22,113) scale(0.875)" class="meta">
     <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.873 6.052a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z"/>
   </g>
   <text x="40" y="126"
         font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
-        font-size="13" fill="#8b949e">1</text>
+        font-size="13" class="meta">1</text>
 
   <!-- ── Badge: OpenClaw ── x=60, w=80 -->
   <rect x="60" y="113" width="80" height="20" rx="3" fill="#CC2233"/>
