@@ -44,11 +44,8 @@ scott = {
 
 **AI Tools**
 
-[![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai/code)
 <!-- [![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openaigym&logoColor=white)](https://platform.openai.com/docs/guides/code) -->
-[![Sora](https://img.shields.io/badge/Sora-412991?style=for-the-badge&logo=openaigym&logoColor=white)](https://sora.com)
-[![Suno](https://img.shields.io/badge/Suno-000000?style=for-the-badge&logo=suno&logoColor=white)](https://suno.com)
-[![Nano Banana](https://img.shields.io/badge/Nano_Banana-FFD700?style=for-the-badge&logo=googlegemini&logoColor=black)](https://aistudio.google.com/models/gemini-2-5-flash-image)
+[![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai/code) [![Sora](https://img.shields.io/badge/Sora-412991?style=for-the-badge&logo=openaigym&logoColor=white)](https://sora.com) [![Suno](https://img.shields.io/badge/Suno-000000?style=for-the-badge&logo=suno&logoColor=white)](https://suno.com) [![Nano Banana](https://img.shields.io/badge/Nano_Banana-FFD700?style=for-the-badge&logo=googlegemini&logoColor=black)](https://aistudio.google.com/models/gemini-2-5-flash-image)
 
 
 </div>
