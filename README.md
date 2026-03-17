@@ -73,24 +73,15 @@ scott = {
 
 <div align="center">
 
-<table border="0" cellpadding="10">
-<tr>
-<td align="center" valign="middle" width="120">
-<a href="https://github.com/averatec0773/averatec-openclaw">
-  <img src="https://raw.githubusercontent.com/averatec0773/averatec-openclaw/main/assets/avatar-public.jpg" width="100" alt="OpenClaw" style="border-radius: 12px;" />
+<a href="https://github.com/averatec0773/openclaw-discord-multiagent">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=averatec0773&repo=openclaw-discord-multiagent&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&icon_color=00d4ff" />
 </a>
-</td>
-<td valign="middle" align="left">
-<a href="https://github.com/averatec0773/averatec-openclaw">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=averatec0773&repo=averatec-openclaw&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&icon_color=00d4ff" />
-</a>
+
 <br/>
+
 <img src="https://img.shields.io/badge/OpenClaw-CC2233?style=flat-square&logo=openaigym&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js_22-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-</td>
-</tr>
-</table>
 
 </div>
 
