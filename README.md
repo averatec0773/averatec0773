@@ -68,17 +68,18 @@ scott = {
 
 ## PROJECTS
 
-<div align="center">
-
+<table width="100%"><tr>
+<td width="50%" align="center">
 <a href="https://github.com/averatec0773/openclaw-discord-multiagent">
-  <img src="https://raw.githubusercontent.com/averatec0773/averatec0773/main/featured-openclaw.svg" alt="openclaw-discord-multiagent" />
+  <img width="100%" src="https://raw.githubusercontent.com/averatec0773/averatec0773/main/featured-openclaw.svg" alt="openclaw-discord-multiagent" />
 </a>
-
+</td>
+<td width="50%" align="center">
 <a href="https://github.com/averatec0773/minecraft-armor-display">
-  <img src="https://raw.githubusercontent.com/averatec0773/averatec0773/main/featured-minecraft.svg" alt="minecraft-armor-display" />
+  <img width="100%" src="https://raw.githubusercontent.com/averatec0773/averatec0773/main/featured-minecraft.svg" alt="minecraft-armor-display" />
 </a>
-
-</div>
+</td>
+</tr></table>
 
 ## MUSIC
 
