@@ -76,18 +76,6 @@ scott = {
 
 </div>
 
-## GAME
-
-> Here are my game-related repos.
-
-<div align="center">
-
-<a href="https://github.com/averatec0773/minecraft-armor-display">
-  <img src="https://raw.githubusercontent.com/averatec0773/averatec0773/main/featured-minecraft.svg" alt="minecraft-armor-display" />
-</a>
-
-</div>
-
 ## MUSIC
 
 > I'm a **Hip-Hop producer** crafting next-gen instrumentals under the alias **AVERATEC** —
@@ -99,6 +87,18 @@ scott = {
 [![Spotify](https://img.shields.io/badge/Spotify-Listen_Now-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/6xP75KkZcUzu0ymZLStQHN)
 [![BeatStars](https://img.shields.io/badge/BeatStars-AVERATEC0773-1DB954?style=for-the-badge&logo=beatstars&logoColor=white)](https://www.beatstars.com/averatec0773)
 [![NetEase Music](https://img.shields.io/badge/NetEase_Music-AVERATEC-C20C0C?style=for-the-badge&logo=netease-cloud-music&logoColor=white)](https://music.163.com/#/artist?id=50982361)
+
+</div>
+
+## GAME
+
+> Here are my game-related repos.
+
+<div align="center">
+
+<a href="https://github.com/averatec0773/minecraft-armor-display">
+  <img src="https://raw.githubusercontent.com/averatec0773/averatec0773/main/featured-minecraft.svg" alt="minecraft-armor-display" />
+</a>
 
 </div>
 
