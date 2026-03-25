@@ -3,11 +3,11 @@
 <!-- Custom Header Banner -->
 <img width="100%" src="https://raw.githubusercontent.com/averatec0773/averatec0773/main/github-header-banner.png?v=2" alt="header banner" />
 
-<!-- Typing Animation -->
+<!-- Typing Animation (hidden to keep layout compact)
 <a href="https://github.com/averatec0773">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1500&color=BFC2C5&center=true&vCenter=true&width=800&lines=Always+learning%2C+always+creating.;AI+%7C+Music+%7C+Game" alt="Typing SVG" />
 </a>
-
+-->
 
 </div>
 
@@ -35,17 +35,14 @@ scott = {
 
 <div align="center">
 
-**Languages & ML**
-
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
-
-**AI Tools**
-
-<!-- [![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openaigym&logoColor=white)](https://platform.openai.com/docs/guides/code) -->
-[![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai/code) [![Sora](https://img.shields.io/badge/Sora-412991?style=for-the-badge&logo=openaigym&logoColor=white)](https://sora.com) [![Suno](https://img.shields.io/badge/Suno-000000?style=for-the-badge&logo=suno&logoColor=white)](https://suno.com) [![Nano Banana](https://img.shields.io/badge/Nano_Banana-FFD700?style=for-the-badge&logo=googlegemini&logoColor=black)](https://aistudio.google.com/models/gemini-2-5-flash-image)
+[![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai/code)
+[![Sora](https://img.shields.io/badge/Sora-412991?style=for-the-badge&logo=openaigym&logoColor=white)](https://sora.com)
+[![Suno](https://img.shields.io/badge/Suno-000000?style=for-the-badge&logo=suno&logoColor=white)](https://suno.com)
+[![Nano Banana](https://img.shields.io/badge/Nano_Banana-FFD700?style=for-the-badge&logo=googlegemini&logoColor=black)](https://aistudio.google.com/models/gemini-2-5-flash-image)
 
 
 </div>
