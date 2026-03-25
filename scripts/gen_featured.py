@@ -64,13 +64,12 @@ def generate(desc: str, stars: int, out_path: str = "featured-openclaw.svg") -> 
     START_Y = 63
     DY = 22
 
+    H  = 190   # fixed — keeps alignment with sibling cards
+    BY = 150   # badge row y — fixed
+
     lines = textwrap.wrap(desc, WRAP) if desc.strip() else ["(no description)"]
     lines = lines[:4]  # cap at 4 lines to keep card compact
     n = len(lines)
-
-    last_y = START_Y + (n - 1) * DY
-    BY = last_y + 21   # badge row y
-    H  = BY + 22 + 18  # SVG total height
 
     # build description tspans
     tspans = [f'    <tspan x="22" y="{START_Y}">{lines[0]}</tspan>']
