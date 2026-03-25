@@ -76,7 +76,19 @@ scott = {
 
 </div>
 
-## MUSIC — AVERATEC
+## GAME
+
+> Here are my game-related repos.
+
+<div align="center">
+
+<a href="https://github.com/averatec0773/minecraft-armor-display">
+  <img src="https://raw.githubusercontent.com/averatec0773/averatec0773/main/featured-minecraft.svg" alt="minecraft-armor-display" />
+</a>
+
+</div>
+
+## MUSIC
 
 > I'm a **Hip-Hop producer** crafting next-gen instrumentals under the alias **AVERATEC** —
 > blending **Memphis**, **Regalia**, **Chinese-influenced** vibes and more into a signature sound.

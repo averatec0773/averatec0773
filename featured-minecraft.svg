@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="156" viewBox="0 0 440 156">
+
+  <style>
+    .title { fill: #1f2328; }
+    .desc  { fill: #636c76; }
+    .icon  { fill: #0969da; }
+    .meta  { fill: #636c76; }
+    .border { stroke: #d0d7de; }
+    @media (prefers-color-scheme: dark) {
+      .title { fill: #e6edf3; }
+      .desc  { fill: #8b949e; }
+      .icon  { fill: #58a6ff; }
+      .meta  { fill: #8b949e; }
+      .border { stroke: #30363d; }
+    }
+  </style>
+
+  <!-- Card border -->
+  <rect width="440" height="156" rx="16" fill="none" class="border" stroke-width="1"/>
+
+  <!-- Repo icon -->
+  <g transform="translate(22,21)" class="icon">
+    <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"/>
+  </g>
+
+  <!-- Title -->
+  <text x="44" y="34"
+        font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+        font-size="16" font-weight="600" class="title">minecraft-armor-display</text>
+
+  <!-- Description -->
+  <text font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+        font-size="13" class="desc">
+    <tspan x="22" y="57">A Minecraft mod that renders equipped armor info</tspan>
+    <tspan x="22" dy="19">on the HUD — slots, durability, enchantments</tspan>
+    <tspan x="22" dy="19">at a glance without opening inventory</tspan>
+  </text>
+
+  <!-- Star icon -->
+  <g transform="translate(22,113) scale(0.875)" class="meta">
+    <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.873 6.052a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z"/>
+  </g>
+  <text x="40" y="126"
+        font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+        font-size="13" class="meta">0</text>
+
+  <!-- Badge: Java -->
+  <rect x="60" y="113" width="58" height="20" rx="3" fill="#B07219"/>
+  <text x="75" y="127"
+        font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+        font-size="11" font-weight="500" fill="white">Java</text>
+  <!-- Java cup icon (simple) -->
+  <g transform="translate(63,117)" fill="white" opacity="0.85">
+    <rect x="0" y="2" width="8" height="6" rx="1"/>
+    <rect x="8" y="3" width="2" height="3" rx="1"/>
+    <rect x="1" y="8" width="6" height="1" rx="0.5"/>
+  </g>
+
+  <!-- Badge: Minecraft -->
+  <rect x="125" y="113" width="88" height="20" rx="3" fill="#5A7A3A"/>
+  <!-- Creeper face (pixel art, 10x10 → placed at x=130,y=117) -->
+  <g transform="translate(130,117)">
+    <rect x="0" y="0" width="10" height="10" fill="#4CAF50"/>
+    <rect x="2" y="2" width="2" height="2" fill="#1a1a1a"/>
+    <rect x="6" y="2" width="2" height="2" fill="#1a1a1a"/>
+    <rect x="3" y="5" width="4" height="1" fill="#1a1a1a"/>
+    <rect x="2" y="6" width="2" height="2" fill="#1a1a1a"/>
+    <rect x="6" y="6" width="2" height="2" fill="#1a1a1a"/>
+    <rect x="4" y="6" width="2" height="1" fill="#1a1a1a"/>
+  </g>
+  <text x="145" y="127"
+        font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+        font-size="11" font-weight="500" fill="white">Minecraft</text>
+
+  <!-- Badge: Fabric -->
+  <rect x="220" y="113" width="62" height="20" rx="3" fill="#DBD0B4"/>
+  <text x="233" y="127"
+        font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+        font-size="11" font-weight="500" fill="#3c3428">Fabric</text>
+  <!-- Fabric weave icon -->
+  <g transform="translate(224,117)" fill="#3c3428" opacity="0.7">
+    <rect x="0" y="0" width="3" height="3"/>
+    <rect x="4" y="0" width="3" height="3"/>
+    <rect x="2" y="4" width="3" height="3"/>
+    <rect x="6" y="4" width="2" height="3"/>
+  </g>
+
+</svg>
