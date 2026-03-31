@@ -96,9 +96,9 @@ scott = {
 </div>
 
 <!-- DAILY_QUOTE_START -->
-> "Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions."
+> "In order to be walked over, you have to be lying down."
 >
-> — Criss Jami · 2026-03-31
+> — Celestine Chua · 2026-03-31
 <!-- DAILY_QUOTE_END -->
 
 <div align="center">
