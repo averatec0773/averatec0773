@@ -95,10 +95,13 @@ scott = {
 
 </div>
 
-<div align="center">
+<!-- DAILY_QUOTE_START -->
+> "Always learning, always creating."
+>
+> — AVERATEC · 2026-03-31
+<!-- DAILY_QUOTE_END -->
 
-<!-- TODO: Contribution graph — uncomment below to re-enable when ready -->
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=averatec0773&theme=tokyo-night&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&hide_border=true" alt="activity graph" /> -->
+<div align="center">
 
 *"Code the future. Produce the soundtrack."*
 
