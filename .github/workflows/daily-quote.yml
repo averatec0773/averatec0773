@@ -64,8 +64,8 @@ jobs:
 
       - name: Commit
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "averatec0773"
+          git config user.email "averatec0773@users.noreply.github.com"
           git add README.md
           git diff --staged --quiet && echo "No changes." || (
             git commit -m "chore: daily quote [skip ci]" &&
