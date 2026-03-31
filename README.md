@@ -96,9 +96,9 @@ scott = {
 </div>
 
 <!-- DAILY_QUOTE_START -->
-> "Always learning, always creating."
+> "Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions."
 >
-> — AVERATEC · 2026-03-31
+> — Criss Jami · 2026-03-31
 <!-- DAILY_QUOTE_END -->
 
 <div align="center">
