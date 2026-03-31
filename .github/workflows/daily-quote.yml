@@ -2,7 +2,7 @@ name: Daily Quote
 
 on:
   schedule:
-    - cron: '0 2 * * *'   # 02:00 UTC = 10:00 BJT
+    - cron: '0 13 * * *'  # 13:00 UTC = 09:00 EDT (UTC-4)
   workflow_dispatch:
 
 jobs:
@@ -65,7 +65,7 @@ jobs:
       - name: Commit
         run: |
           git config user.name "averatec0773"
-          git config user.email "averatec0773@users.noreply.github.com"
+          git config user.email "ayetek0773@gmail.com"
           git add README.md
           git diff --staged --quiet && echo "No changes." || (
             git commit -m "chore: daily quote [skip ci]" &&
