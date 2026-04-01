@@ -96,9 +96,9 @@ scott = {
 </div>
 
 <!-- DAILY_QUOTE_START -->
-> "In order to be walked over, you have to be lying down."
+> "Everything has beauty but not everyone sees it."
 >
-> — Celestine Chua · 2026-03-31
+> — Confucius · 2026-04-01
 <!-- DAILY_QUOTE_END -->
 
 <div align="center">
