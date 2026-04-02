@@ -96,9 +96,9 @@ scott = {
 </div>
 
 <!-- DAILY_QUOTE_START -->
-> "Everything has beauty but not everyone sees it."
+> "Greatness lies not in being strong, but in the right use of strength."
 >
-> — Confucius · 2026-04-01
+> — Henry Ward Beecher · 2026-04-02
 <!-- DAILY_QUOTE_END -->
 
 <div align="center">
