@@ -96,9 +96,9 @@ scott = {
 </div>
 
 <!-- DAILY_QUOTE_START -->
-> "Greatness lies not in being strong, but in the right use of strength."
+> "It's the unknown we fear when we look upon death and darkness, nothing more."
 >
-> — Henry Ward Beecher · 2026-04-02
+> — Albus Dumbledore · 2026-04-03
 <!-- DAILY_QUOTE_END -->
 
 <div align="center">
