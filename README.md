@@ -96,9 +96,9 @@ scott = {
 </div>
 
 <!-- DAILY_QUOTE_START -->
-> "It's the unknown we fear when we look upon death and darkness, nothing more."
+> "Either get busy living or get busy dying."
 >
-> — Albus Dumbledore · 2026-04-03
+> — Stephen King · 2026-04-04
 <!-- DAILY_QUOTE_END -->
 
 <div align="center">
