@@ -96,9 +96,9 @@ scott = {
 </div>
 
 <!-- DAILY_QUOTE_START -->
-> "Either get busy living or get busy dying."
+> "Everyone sees what you appear to be, few experience what you really are."
 >
-> — Stephen King · 2026-04-04
+> — Niccolo Machiavelli · 2026-04-05
 <!-- DAILY_QUOTE_END -->
 
 <div align="center">
