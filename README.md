@@ -96,9 +96,9 @@ scott = {
 </div>
 
 <!-- DAILY_QUOTE_START -->
-> "Everyone sees what you appear to be, few experience what you really are."
+> "Luck is a matter of preparation meeting opportunity."
 >
-> — Niccolo Machiavelli · 2026-04-05
+> — Oprah Winfrey · 2026-04-06
 <!-- DAILY_QUOTE_END -->
 
 <div align="center">
