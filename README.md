@@ -96,9 +96,9 @@ scott = {
 </div>
 
 <!-- DAILY_QUOTE_START -->
-> "Luck is a matter of preparation meeting opportunity."
+> "People who avoid failure also avoid success."
 >
-> — Oprah Winfrey · 2026-04-06
+> — Robert Kiyosaki · 2026-04-07
 <!-- DAILY_QUOTE_END -->
 
 <div align="center">
