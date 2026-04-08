@@ -96,9 +96,9 @@ scott = {
 </div>
 
 <!-- DAILY_QUOTE_START -->
-> "People who avoid failure also avoid success."
+> "You can't make someone feel good about themselves until you feel good about yourself."
 >
-> — Robert Kiyosaki · 2026-04-07
+> — Robin Sharma · 2026-04-08
 <!-- DAILY_QUOTE_END -->
 
 <div align="center">
