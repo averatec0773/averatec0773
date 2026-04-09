@@ -96,9 +96,9 @@ scott = {
 </div>
 
 <!-- DAILY_QUOTE_START -->
-> "You can't make someone feel good about themselves until you feel good about yourself."
+> "Today will never happen again. Don't waste it with a false start or no start at all."
 >
-> — Robin Sharma · 2026-04-08
+> — Og Mandino · 2026-04-09
 <!-- DAILY_QUOTE_END -->
 
 <div align="center">
