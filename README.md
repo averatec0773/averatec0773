@@ -96,9 +96,9 @@ scott = {
 </div>
 
 <!-- DAILY_QUOTE_START -->
-> "Today will never happen again. Don't waste it with a false start or no start at all."
+> "There are no shortcuts to any place worth going. "
 >
-> — Og Mandino · 2026-04-09
+> — Beverly Sills · 2026-04-10
 <!-- DAILY_QUOTE_END -->
 
 <div align="center">
