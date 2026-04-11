@@ -96,9 +96,9 @@ scott = {
 </div>
 
 <!-- DAILY_QUOTE_START -->
-> "There are no shortcuts to any place worth going. "
+> "Do good, live in the most positive and joyful way possible every day."
 >
-> — Beverly Sills · 2026-04-10
+> — Roy T. Bennett · 2026-04-11
 <!-- DAILY_QUOTE_END -->
 
 <div align="center">
