@@ -96,9 +96,9 @@ scott = {
 </div>
 
 <!-- DAILY_QUOTE_START -->
-> "Do good, live in the most positive and joyful way possible every day."
+> "The best teacher is experience and not through someone's distorted point of view."
 >
-> — Roy T. Bennett · 2026-04-11
+> — Jack Kerouac · 2026-04-12
 <!-- DAILY_QUOTE_END -->
 
 <div align="center">
