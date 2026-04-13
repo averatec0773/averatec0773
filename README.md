@@ -96,9 +96,9 @@ scott = {
 </div>
 
 <!-- DAILY_QUOTE_START -->
-> "The best teacher is experience and not through someone's distorted point of view."
+> "No matter how smart we may think we are, no matter how committed we are to our truth, we can lose our way."
 >
-> — Jack Kerouac · 2026-04-12
+> — Kamal Ravikant · 2026-04-13
 <!-- DAILY_QUOTE_END -->
 
 <div align="center">
