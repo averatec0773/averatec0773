@@ -96,9 +96,9 @@ scott = {
 </div>
 
 <!-- DAILY_QUOTE_START -->
-> "No matter how smart we may think we are, no matter how committed we are to our truth, we can lose our way."
+> "I pay attention to every minute of the day."
 >
-> — Kamal Ravikant · 2026-04-13
+> — Steve Harvey · 2026-04-14
 <!-- DAILY_QUOTE_END -->
 
 <div align="center">
