@@ -96,9 +96,9 @@ scott = {
 </div>
 
 <!-- DAILY_QUOTE_START -->
-> "I pay attention to every minute of the day."
+> "Fashion fades, only style remains the same."
 >
-> — Steve Harvey · 2026-04-14
+> — Coco Chanel · 2026-04-15
 <!-- DAILY_QUOTE_END -->
 
 <div align="center">
