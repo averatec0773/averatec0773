@@ -96,9 +96,9 @@ scott = {
 </div>
 
 <!-- DAILY_QUOTE_START -->
-> "Fashion fades, only style remains the same."
+> "It is important to fight and fight again, and keep fighting, for only then can evil be kept at bay though never quite eradicated."
 >
-> — Coco Chanel · 2026-04-15
+> — Albus Dumbledore · 2026-04-16
 <!-- DAILY_QUOTE_END -->
 
 <div align="center">
