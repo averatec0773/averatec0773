@@ -96,9 +96,9 @@ scott = {
 </div>
 
 <!-- DAILY_QUOTE_START -->
-> "It is important to fight and fight again, and keep fighting, for only then can evil be kept at bay though never quite eradicated."
+> "Focus is a matter of deciding what things you're not going to do."
 >
-> — Albus Dumbledore · 2026-04-16
+> — John Carmack · 2026-04-17
 <!-- DAILY_QUOTE_END -->
 
 <div align="center">
