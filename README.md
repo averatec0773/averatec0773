@@ -96,9 +96,9 @@ scott = {
 </div>
 
 <!-- DAILY_QUOTE_START -->
-> "Focus is a matter of deciding what things you're not going to do."
+> "Do not use life to give life to death. Do not use death to bring death to life."
 >
-> — John Carmack · 2026-04-17
+> — Zhuangzi · 2026-04-18
 <!-- DAILY_QUOTE_END -->
 
 <div align="center">
