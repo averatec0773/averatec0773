@@ -96,9 +96,9 @@ scott = {
 </div>
 
 <!-- DAILY_QUOTE_START -->
-> "Do not use life to give life to death. Do not use death to bring death to life."
+> "If you can't argue both sides, you can't argue."
 >
-> — Zhuangzi · 2026-04-18
+> — Jack Butcher · 2026-04-19
 <!-- DAILY_QUOTE_END -->
 
 <div align="center">
