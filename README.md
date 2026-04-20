@@ -96,9 +96,9 @@ scott = {
 </div>
 
 <!-- DAILY_QUOTE_START -->
-> "If you can't argue both sides, you can't argue."
+> "The ego wants comfort and certainty. The soul wants to live fully."
 >
-> — Jack Butcher · 2026-04-19
+> — Maxime Lagace · 2026-04-20
 <!-- DAILY_QUOTE_END -->
 
 <div align="center">
