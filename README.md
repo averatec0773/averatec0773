@@ -96,9 +96,9 @@ scott = {
 </div>
 
 <!-- DAILY_QUOTE_START -->
-> "The ego wants comfort and certainty. The soul wants to live fully."
+> "Creativity is intelligence having fun."
 >
-> — Maxime Lagace · 2026-04-20
+> — Albert Einstein · 2026-04-21
 <!-- DAILY_QUOTE_END -->
 
 <div align="center">
