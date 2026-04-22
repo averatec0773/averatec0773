@@ -96,9 +96,9 @@ scott = {
 </div>
 
 <!-- DAILY_QUOTE_START -->
-> "Creativity is intelligence having fun."
+> "Rewards and punishment is the lowest form of education."
 >
-> — Albert Einstein · 2026-04-21
+> — Zhuangzi · 2026-04-22
 <!-- DAILY_QUOTE_END -->
 
 <div align="center">
