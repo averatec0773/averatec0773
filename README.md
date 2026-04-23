@@ -96,9 +96,9 @@ scott = {
 </div>
 
 <!-- DAILY_QUOTE_START -->
-> "Rewards and punishment is the lowest form of education."
+> "Most of the important things in the world have been accompanied by people who have kept on trying when there seemed to be no hope at all."
 >
-> — Zhuangzi · 2026-04-22
+> — Dale Carnegie · 2026-04-23
 <!-- DAILY_QUOTE_END -->
 
 <div align="center">
