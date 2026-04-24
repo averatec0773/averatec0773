@@ -96,9 +96,9 @@ scott = {
 </div>
 
 <!-- DAILY_QUOTE_START -->
-> "Most of the important things in the world have been accompanied by people who have kept on trying when there seemed to be no hope at all."
+> "Humans and prosperity never endure side by side for long."
 >
-> — Dale Carnegie · 2026-04-23
+> — Herodotus · 2026-04-24
 <!-- DAILY_QUOTE_END -->
 
 <div align="center">
