@@ -96,9 +96,9 @@ scott = {
 </div>
 
 <!-- DAILY_QUOTE_START -->
-> "Humans and prosperity never endure side by side for long."
+> "Each problem has a positive side."
 >
-> — Herodotus · 2026-04-24
+> — Og Mandino · 2026-04-25
 <!-- DAILY_QUOTE_END -->
 
 <div align="center">
