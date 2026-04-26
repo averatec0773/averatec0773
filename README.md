@@ -96,9 +96,9 @@ scott = {
 </div>
 
 <!-- DAILY_QUOTE_START -->
-> "Each problem has a positive side."
+> "I am not what happened to me, I am what I choose to become."
 >
-> — Og Mandino · 2026-04-25
+> — Carl Jung · 2026-04-26
 <!-- DAILY_QUOTE_END -->
 
 <div align="center">
