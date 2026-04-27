@@ -96,9 +96,9 @@ scott = {
 </div>
 
 <!-- DAILY_QUOTE_START -->
-> "I am not what happened to me, I am what I choose to become."
+> "A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday."
 >
-> — Carl Jung · 2026-04-26
+> — Jonathan Swift · 2026-04-27
 <!-- DAILY_QUOTE_END -->
 
 <div align="center">
