@@ -25,6 +25,7 @@ scott = {
     "focus":      ["LLM Agents", "Reinforcement Learning", "Deep Learning", "AI Systems"],
     "side_quest": "Exploring AI creation & Producing beats",
     "motto":      "Always learning, always creating.",
+    "website":    "https://www.averatec.studio/",
 }
 ```
 
@@ -96,9 +97,9 @@ scott = {
 </div>
 
 <!-- DAILY_QUOTE_START -->
-> "In order to be walked over, you have to be lying down."
+> "A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday."
 >
-> — Celestine Chua · 2026-03-31
+> — Jonathan Swift · 2026-04-27
 <!-- DAILY_QUOTE_END -->
 
 <div align="center">
