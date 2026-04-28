@@ -25,6 +25,7 @@ scott = {
     "focus":      ["LLM Agents", "Reinforcement Learning", "Deep Learning", "AI Systems"],
     "side_quest": "Exploring AI creation & Producing beats",
     "motto":      "Always learning, always creating.",
+    "website":    "https://www.averatec.studio/",
 }
 ```
 
