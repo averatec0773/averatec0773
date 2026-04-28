@@ -102,9 +102,9 @@ scott = {
 </div>
 
 <!-- DAILY_QUOTE_START -->
-> "A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday."
+> "Faithless is he that says farewell when the road darkens."
 >
-> — Jonathan Swift · 2026-04-27
+> — J.R.R. Tolkien · 2026-04-28
 <!-- DAILY_QUOTE_END -->
 
 <div align="center">
