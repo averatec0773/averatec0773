@@ -25,9 +25,14 @@ scott = {
     "focus":      ["LLM Agents", "Reinforcement Learning", "Deep Learning", "AI Systems"],
     "side_quest": "Exploring AI creation & Producing beats",
     "motto":      "Always learning, always creating.",
-    "website":    "https://www.averatec.studio/",
 }
 ```
+
+<div align="center">
+
+[![Visit My Website](https://img.shields.io/badge/Visit_My_Website-averatec.studio-000000?style=for-the-badge&logo=safari&logoColor=white)](https://www.averatec.studio/)
+
+</div>
 
 <!-- > I explore and build **intelligent AI systems** with a focus on LLM agents and real-world applications.
 > Outside of research, I produce **Hip-Hop instrumentals** and push the boundaries of AI + music creativity. -->
