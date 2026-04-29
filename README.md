@@ -102,9 +102,9 @@ scott = {
 </div>
 
 <!-- DAILY_QUOTE_START -->
-> "Faithless is he that says farewell when the road darkens."
+> "The only limits in our life are those we impose on ourselves."
 >
-> — J.R.R. Tolkien · 2026-04-28
+> — Bob Proctor · 2026-04-29
 <!-- DAILY_QUOTE_END -->
 
 <div align="center">
