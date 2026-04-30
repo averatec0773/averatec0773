@@ -102,9 +102,9 @@ scott = {
 </div>
 
 <!-- DAILY_QUOTE_START -->
-> "The only limits in our life are those we impose on ourselves."
+> "There is a big difference between being centered and being self-centered."
 >
-> — Bob Proctor · 2026-04-29
+> — Lolly Daskal · 2026-04-30
 <!-- DAILY_QUOTE_END -->
 
 <div align="center">
