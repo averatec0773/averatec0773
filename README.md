@@ -102,9 +102,9 @@ scott = {
 </div>
 
 <!-- DAILY_QUOTE_START -->
-> "There is a big difference between being centered and being self-centered."
+> "Many roads lead to the path, but basically there are only two: reason and practice. "
 >
-> — Lolly Daskal · 2026-04-30
+> — Bodhidharma · 2026-05-01
 <!-- DAILY_QUOTE_END -->
 
 <div align="center">
