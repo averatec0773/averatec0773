@@ -27,7 +27,10 @@
 
   <text font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
         font-size="14" class="desc">
-    <tspan x="22" y="63">(no description)</tspan>
+    <tspan x="22" y="63">Run a private AI assistant and a public Discord</tspan>
+    <tspan x="22" dy="22">bot on one self-hosted OpenClaw gateway — multi-</tspan>
+    <tspan x="22" dy="22">agent routing, custom Docker image, and Claude</tspan>
+    <tspan x="22" dy="22">Code workflow for AI-assisted server management.</tspan>
   </text>
 
   <g transform="translate(22,150) scale(0.875)" class="meta">
@@ -35,7 +38,7 @@
   </g>
   <text x="40" y="163"
         font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
-        font-size="14" class="meta">0</text>
+        font-size="14" class="meta">1</text>
 
   <!-- OpenClaw badge -->
   <rect x="60" y="150" width="84" height="22" rx="3" fill="#CC2233"/>
