@@ -102,9 +102,9 @@ scott = {
 </div>
 
 <!-- DAILY_QUOTE_START -->
-> "Many roads lead to the path, but basically there are only two: reason and practice. "
+> "If you've never eaten while crying you don t know what life tastes like."
 >
-> — Bodhidharma · 2026-05-01
+> — Johann Wolfgang von Goethe · 2026-05-02
 <!-- DAILY_QUOTE_END -->
 
 <div align="center">
