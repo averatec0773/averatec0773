@@ -102,9 +102,9 @@ scott = {
 </div>
 
 <!-- DAILY_QUOTE_START -->
-> "If you've never eaten while crying you don t know what life tastes like."
+> "Make failure your teacher, not your undertaker.  "
 >
-> — Johann Wolfgang von Goethe · 2026-05-02
+> — Zig Ziglar · 2026-05-03
 <!-- DAILY_QUOTE_END -->
 
 <div align="center">
