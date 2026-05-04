@@ -102,9 +102,9 @@ scott = {
 </div>
 
 <!-- DAILY_QUOTE_START -->
-> "Make failure your teacher, not your undertaker.  "
+> "First say to yourself what you would be; and then do what you have to do."
 >
-> — Zig Ziglar · 2026-05-03
+> — Epictetus · 2026-05-04
 <!-- DAILY_QUOTE_END -->
 
 <div align="center">
