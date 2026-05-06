@@ -102,9 +102,9 @@ scott = {
 </div>
 
 <!-- DAILY_QUOTE_START -->
-> "First say to yourself what you would be; and then do what you have to do."
+> "When you've got nothing, you've got nothing to lose."
 >
-> — Epictetus · 2026-05-04
+> — Bob Dylan · 2026-05-06
 <!-- DAILY_QUOTE_END -->
 
 <div align="center">
