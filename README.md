@@ -70,12 +70,27 @@ scott = {
 </div>
 -->
 
-## PROJECTS
+## MY WEBSITE
+
+<p align="center">
+  <a href="https://www.averatec.studio/">
+    <img width="80%" src="https://www.averatec.studio/website-snapshot.png" alt="averatec.studio homepage snapshot" />
+  </a>
+</p>
+
+<div align="center">
+
+[![Open Live Site](https://img.shields.io/badge/Open_Live_Site-averatec.studio_↗-000000?style=for-the-badge&logo=safari&logoColor=white)](https://www.averatec.studio/)
+
+</div>
+
+<!-- ## PROJECTS
 
 <p align="center">
 <a href="https://github.com/averatec0773/openclaw-discord-multiagent"><img width="49%" src="https://raw.githubusercontent.com/averatec0773/averatec0773/main/featured-openclaw.svg" alt="openclaw-discord-multiagent" /></a>
 <a href="https://github.com/averatec0773/minecraft-armor-display"><img width="49%" src="https://raw.githubusercontent.com/averatec0773/averatec0773/main/featured-minecraft.svg" alt="minecraft-armor-display" /></a>
 </p>
+-->
 
 ## MUSIC
 
