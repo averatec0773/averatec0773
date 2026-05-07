@@ -28,14 +28,22 @@ scott = {
 }
 ```
 
-<div align="center">
-
-[![Visit My Website](https://img.shields.io/badge/Visit_My_Website-averatec.studio-000000?style=for-the-badge&logo=safari&logoColor=white)](https://www.averatec.studio/)
-
-</div>
-
 <!-- > I explore and build **intelligent AI systems** with a focus on LLM agents and real-world applications.
 > Outside of research, I produce **Hip-Hop instrumentals** and push the boundaries of AI + music creativity. -->
+
+## MY WEBSITE
+
+<p align="center">
+  <a href="https://www.averatec.studio/">
+    <img width="80%" src="https://www.averatec.studio/website-snapshot.png" alt="averatec.studio homepage snapshot" />
+  </a>
+</p>
+
+<div align="center">
+
+[![Open Live Site](https://img.shields.io/badge/Open_Live_Site-averatec.studio_↗-000000?style=for-the-badge&logo=safari&logoColor=white)](https://www.averatec.studio/)
+
+</div>
 
 ## TECH STACK
 
@@ -70,20 +78,6 @@ scott = {
 </div>
 -->
 
-## MY WEBSITE
-
-<p align="center">
-  <a href="https://www.averatec.studio/">
-    <img width="80%" src="https://www.averatec.studio/website-snapshot.png" alt="averatec.studio homepage snapshot" />
-  </a>
-</p>
-
-<div align="center">
-
-[![Open Live Site](https://img.shields.io/badge/Open_Live_Site-averatec.studio_↗-000000?style=for-the-badge&logo=safari&logoColor=white)](https://www.averatec.studio/)
-
-</div>
-
 <!-- ## PROJECTS
 
 <p align="center">
@@ -115,12 +109,6 @@ scott = {
 [![Instagram](https://img.shields.io/badge/Instagram-averatec0773-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/averatec0773/)
 
 </div>
-
-<!-- DAILY_QUOTE_START -->
-> "When you've got nothing, you've got nothing to lose."
->
-> — Bob Dylan · 2026-05-06
-<!-- DAILY_QUOTE_END -->
 
 <div align="center">
 
