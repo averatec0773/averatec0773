@@ -110,6 +110,12 @@ scott = {
 
 </div>
 
+<!-- DAILY_QUOTE_START -->
+> "When you've got nothing, you've got nothing to lose."
+>
+> — Bob Dylan · 2026-05-06
+<!-- DAILY_QUOTE_END -->
+
 <div align="center">
 
 *"Code the future. Produce the soundtrack."*
