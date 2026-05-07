@@ -111,9 +111,9 @@ scott = {
 </div>
 
 <!-- DAILY_QUOTE_START -->
-> "You do not read a book for the book's sake, but for your own."
+> "Numbing the pain for a while will only make it worse when you finally feel it."
 >
-> — Earl Nightingale · 2026-05-07
+> — Albus Dumbledore · 2026-05-07
 <!-- DAILY_QUOTE_END -->
 
 <div align="center">
