@@ -111,9 +111,9 @@ scott = {
 </div>
 
 <!-- DAILY_QUOTE_START -->
-> "When you've got nothing, you've got nothing to lose."
+> "You do not read a book for the book's sake, but for your own."
 >
-> — Bob Dylan · 2026-05-06
+> — Earl Nightingale · 2026-05-07
 <!-- DAILY_QUOTE_END -->
 
 <div align="center">
