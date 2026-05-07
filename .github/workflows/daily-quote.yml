@@ -1,0 +1,75 @@
+name: Daily Quote
+
+on:
+  schedule:
+    - cron: '0 13 * * *'  # 13:00 UTC = 09:00 EDT (UTC-4)
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update daily quote
+        run: |
+          python3 << 'EOF'
+          import urllib.request
+          import json
+          import re
+          from datetime import date
+
+          try:
+              req = urllib.request.Request(
+                  'https://zenquotes.io/api/random',
+                  headers={'User-Agent': 'Mozilla/5.0'}
+              )
+              with urllib.request.urlopen(req, timeout=10) as r:
+                  data = json.loads(r.read())[0]
+                  quote = data['q']
+                  author = data['a']
+          except Exception as e:
+              print(f"API failed: {e}, using fallback")
+              fallbacks = [
+                  ("Talk is cheap. Show me the code.", "Linus Torvalds"),
+                  ("Any fool can write code that a computer can understand. Good programmers write code that humans can understand.", "Martin Fowler"),
+                  ("First, solve the problem. Then, write the code.", "John Johnson"),
+                  ("Simplicity is the soul of efficiency.", "Austin Freeman"),
+                  ("Make it work, make it right, make it fast.", "Kent Beck"),
+              ]
+              import random
+              quote, author = random.choice(fallbacks)
+
+          today = date.today().isoformat()
+          new_section = f'<!-- DAILY_QUOTE_START -->\n> "{quote}"\n>\n> — {author} · {today}\n<!-- DAILY_QUOTE_END -->'
+
+          with open('README.md', 'r', encoding='utf-8') as f:
+              content = f.read()
+
+          content = re.sub(
+              r'<!-- DAILY_QUOTE_START -->.*?<!-- DAILY_QUOTE_END -->',
+              new_section,
+              content,
+              flags=re.DOTALL
+          )
+
+          with open('README.md', 'w', encoding='utf-8') as f:
+              f.write(content)
+
+          print(f"Updated: {quote[:60]}... — {author}")
+          EOF
+
+      - name: Commit
+        run: |
+          git config user.name "averatec0773"
+          git config user.email "ayetek0773@gmail.com"
+          git add README.md
+          git diff --staged --quiet && echo "No changes." || (
+            git commit -m "chore: daily quote [skip ci]" &&
+            git push
+          )
