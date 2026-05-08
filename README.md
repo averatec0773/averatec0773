@@ -111,9 +111,9 @@ scott = {
 </div>
 
 <!-- DAILY_QUOTE_START -->
-> "Numbing the pain for a while will only make it worse when you finally feel it."
+> "Patience is a bitter plant, but its fruit is sweet."
 >
-> — Albus Dumbledore · 2026-05-07
+> — Chinese Proverb · 2026-05-08
 <!-- DAILY_QUOTE_END -->
 
 <div align="center">
