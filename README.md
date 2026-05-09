@@ -111,9 +111,9 @@ scott = {
 </div>
 
 <!-- DAILY_QUOTE_START -->
-> "Patience is a bitter plant, but its fruit is sweet."
+> "If you are lucky enough to find love, remember it is there and don't throw it away."
 >
-> — Chinese Proverb · 2026-05-08
+> — Stephen Hawking · 2026-05-09
 <!-- DAILY_QUOTE_END -->
 
 <div align="center">
