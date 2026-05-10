@@ -111,9 +111,9 @@ scott = {
 </div>
 
 <!-- DAILY_QUOTE_START -->
-> "If you are lucky enough to find love, remember it is there and don't throw it away."
+> "Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad."
 >
-> — Stephen Hawking · 2026-05-09
+> — Harry S. Truman · 2026-05-10
 <!-- DAILY_QUOTE_END -->
 
 <div align="center">
