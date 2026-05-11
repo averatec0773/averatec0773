@@ -111,9 +111,9 @@ scott = {
 </div>
 
 <!-- DAILY_QUOTE_START -->
-> "Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad."
+> "Life is like stepping onto a boat which is about to sail out to sea and sink."
 >
-> — Harry S. Truman · 2026-05-10
+> — Shunryu Suzuki · 2026-05-11
 <!-- DAILY_QUOTE_END -->
 
 <div align="center">
