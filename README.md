@@ -111,9 +111,9 @@ scott = {
 </div>
 
 <!-- DAILY_QUOTE_START -->
-> "Life is like stepping onto a boat which is about to sail out to sea and sink."
+> "One loyal friend is worth ten thousand relatives."
 >
-> — Shunryu Suzuki · 2026-05-11
+> — Euripides · 2026-05-12
 <!-- DAILY_QUOTE_END -->
 
 <div align="center">
