@@ -111,9 +111,9 @@ scott = {
 </div>
 
 <!-- DAILY_QUOTE_START -->
-> "One loyal friend is worth ten thousand relatives."
+> "Go confidently in the direction of your dreams! Live the life you've imagined."
 >
-> — Euripides · 2026-05-12
+> — Henry David Thoreau · 2026-05-13
 <!-- DAILY_QUOTE_END -->
 
 <div align="center">
