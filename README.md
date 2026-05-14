@@ -111,9 +111,9 @@ scott = {
 </div>
 
 <!-- DAILY_QUOTE_START -->
-> "Go confidently in the direction of your dreams! Live the life you've imagined."
+> "If I cannot do great things. I can do small things in a great way."
 >
-> — Henry David Thoreau · 2026-05-13
+> — Martin Luther King, Jr. · 2026-05-14
 <!-- DAILY_QUOTE_END -->
 
 <div align="center">
