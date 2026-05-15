@@ -111,9 +111,9 @@ scott = {
 </div>
 
 <!-- DAILY_QUOTE_START -->
-> "If I cannot do great things. I can do small things in a great way."
+> "The world is a puzzle; no need to make sense out of it."
 >
-> — Martin Luther King, Jr. · 2026-05-14
+> — Socrates · 2026-05-15
 <!-- DAILY_QUOTE_END -->
 
 <div align="center">
