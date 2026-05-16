@@ -111,9 +111,9 @@ scott = {
 </div>
 
 <!-- DAILY_QUOTE_START -->
-> "The world is a puzzle; no need to make sense out of it."
+> "People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents."
 >
-> — Socrates · 2026-05-15
+> — Andrew Carnegie · 2026-05-16
 <!-- DAILY_QUOTE_END -->
 
 <div align="center">
