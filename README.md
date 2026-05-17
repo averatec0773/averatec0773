@@ -33,17 +33,59 @@ scott = {
 
 ## MY WEBSITE
 
-<p align="center">
-  <a href="https://www.averatec.studio/">
-    <img width="80%" src="https://www.averatec.studio/website-snapshot.png" alt="averatec.studio homepage snapshot" />
-  </a>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://www.averatec.studio/">
+        <img src="https://www.averatec.studio/website-snapshot.png" width="100%" alt="averatec.studio homepage snapshot" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>averatec.studio</h3>
+      <p>My personal site — a portfolio &amp; creative space for AI projects, music, and ongoing experiments. Built end-to-end from scratch.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+      </p>
+      <p>
+        <a href="https://www.averatec.studio/">
+          <img src="https://img.shields.io/badge/Open_Live_Site-↗-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Open Live Site" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
+<!-- ## NOW BUILDING
 
-[![Open Live Site](https://img.shields.io/badge/Open_Live_Site-averatec.studio_↗-000000?style=for-the-badge&logo=safari&logoColor=white)](https://www.averatec.studio/)
-
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/averatec0773/beatos">
+        <img src="https://raw.githubusercontent.com/averatec0773/averatec0773/main/featured-beatos.svg" width="100%" alt="BeatOS — the operating system for beat producers" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>BeatOS &nbsp;<img src="https://img.shields.io/badge/v0.0.1-%E2%97%8F%20Active-EF4444?style=flat-square" alt="v0.0.1 Active" /></h3>
+      <p><em>The operating system for beat producers.</em></p>
+      <p>An OS layer for beat producers — local-first catalog, browser-driven multi-platform publishing, and MCP-native so AI agents can read and ship your library.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/MCP-181717?style=flat-square&logo=anthropic&logoColor=white" alt="MCP" />
+      </p>
+      <p>
+        <a href="https://github.com/averatec0773/beatos">
+          <img src="https://img.shields.io/badge/View_on_GitHub-↗-181717?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+-->
 
 ## TECH STACK
 
@@ -111,9 +153,9 @@ scott = {
 </div>
 
 <!-- DAILY_QUOTE_START -->
-> "When you've got nothing, you've got nothing to lose."
+> "Being ignorant is not so much a shame, as being unwilling to learn."
 >
-> — Bob Dylan · 2026-05-06
+> — Benjamin Franklin · 2026-05-17
 <!-- DAILY_QUOTE_END -->
 
 <div align="center">
