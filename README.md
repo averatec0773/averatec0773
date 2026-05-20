@@ -58,17 +58,17 @@ scott = {
   </tr>
 </table>
 
-<!-- ## NOW BUILDING
+## NOW BUILDING
 
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/averatec0773/beatos">
-        <img src="https://raw.githubusercontent.com/averatec0773/averatec0773/main/featured-beatos.svg" width="100%" alt="BeatOS — the operating system for beat producers" />
+        <img src="https://raw.githubusercontent.com/averatec0773/beatos/main/screenshots/main.png" width="100%" alt="BeatOS — the operating system for beat producers" />
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>BeatOS &nbsp;<img src="https://img.shields.io/badge/v0.0.1-%E2%97%8F%20Active-EF4444?style=flat-square" alt="v0.0.1 Active" /></h3>
+      <h3>BeatOS &nbsp;<img src="https://img.shields.io/badge/v0.0.25-%E2%97%8F%20Active-EF4444?style=flat-square" alt="v0.0.25 Active" /></h3>
       <p><em>The operating system for beat producers.</em></p>
       <p>An OS layer for beat producers — local-first catalog, browser-driven multi-platform publishing, and MCP-native so AI agents can read and ship your library.</p>
       <p>
@@ -85,7 +85,6 @@ scott = {
     </td>
   </tr>
 </table>
--->
 
 ## TECH STACK
 
@@ -153,9 +152,9 @@ scott = {
 </div>
 
 <!-- DAILY_QUOTE_START -->
-> "Being ignorant is not so much a shame, as being unwilling to learn."
+> "Confidence is what you have before you understand the problem."
 >
-> — Benjamin Franklin · 2026-05-17
+> — Woody Allen · 2026-05-19
 <!-- DAILY_QUOTE_END -->
 
 <div align="center">
