@@ -151,12 +151,6 @@ scott = {
 
 </div>
 
-<!-- DAILY_QUOTE_START -->
-> "Confidence is what you have before you understand the problem."
->
-> — Woody Allen · 2026-05-19
-<!-- DAILY_QUOTE_END -->
-
 <div align="center">
 
 *"Code the future. Produce the soundtrack."*
