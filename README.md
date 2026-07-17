@@ -68,9 +68,9 @@ scott = {
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>BeatOS &nbsp;<img src="https://img.shields.io/badge/v0.0.44-%E2%97%8F%20Active-EF4444?style=flat-square" alt="v0.0.44 Active" /></h3>
+      <h3>BeatOS &nbsp;<img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/averatec0773/beatos/main/apps/desktop/package.json&query=%24.version&label=&prefix=v&suffix=%20%E2%97%8F%20Active&color=EF4444&style=flat-square" alt="BeatOS version — Active" /></h3>
       <p><em>The operating system for beat producers.</em></p>
-      <p>An OS layer for beat producers — a tactile, local-first catalog with browser-driven multi-platform publishing, and MCP-native so AI agents can read and ship your library.</p>
+      <p>An OS layer for beat producers — a tactile, local-first catalog, a built-in AI agent that reads and edits your library in plain language, browser-driven multi-platform publishing, and MCP-native so any AI client can drive it. Desktop (macOS · Windows) + web.</p>
       <p>
         <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
