@@ -37,7 +37,7 @@ scott = {
   <tr>
     <td width="50%" valign="top">
       <a href="https://www.averatec.studio/">
-        <img src="https://www.averatec.studio/website-snapshot.png" width="100%" alt="averatec.studio homepage snapshot" />
+        <img src="https://www.averatec.studio/website-snapshot.png?v=2" width="100%" alt="averatec.studio homepage snapshot" />
       </a>
     </td>
     <td width="50%" valign="top">
